@@ -24,7 +24,7 @@ form_fields:
       - Other
   - input_type: textarea
     name: message
-    label: Din be
+    label: Besked
     default_value: Your message
   - input_type: checkbox
     name: consent
