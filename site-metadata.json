@@ -3,7 +3,7 @@
     "palette": "green",
     "header": {
         "title": "Observationer fra virkligheden",
-        "logo_img": "images/logo.svg",
+        "logo_img": "images/9BB9F9B4-1FDB-4398-95CC-4C8A49EF4A85.jpeg",
         "logo_img_alt": "Ampersand Logo",
         "has_nav": true,
         "nav_links": [
@@ -40,7 +40,6 @@
                 "icon_class": "twitter",
                 "new_window": true
             },
-    
             {
                 "label": "Facebook",
                 "url": "https://www.facebook.com/observationerfravirkeligheden",
