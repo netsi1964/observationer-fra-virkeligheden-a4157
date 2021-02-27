@@ -2,18 +2,18 @@
 title: Home
 has_intro: true
 intro_content: >-
-  Observationer fra virkligheden er en blog hvor jeg deler mine observationer fra virkelighden.
+  Observationer fra virkeligheden er en blog hvor jeg deler mine observationer fra virkelighden.
 intro_actions:
-  - label: Learn More
+  - label: Om mig
     url: /about
     style: primary
-  - label: Contact
+  - label: Kontakt
     url: /contact
     style: secondary
 has_more_link: true
-more_link_text: Read more
+more_link_text: Om mig
 seo:
-  title: Stackbit Ampersand Theme
+  title: Observationer fra virkeligheden
   description: The preview of the Ampersand theme
   extra:
     - name: 'og:type'
