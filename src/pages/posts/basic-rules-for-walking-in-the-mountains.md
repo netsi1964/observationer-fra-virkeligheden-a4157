@@ -1,16 +1,17 @@
 ---
 title: Velkommen til min blog
 excerpt: >-
-  Vi lever gennem vores observationer i virkligheden. Jeg kan godt lidt at observere og sætte ord på mine observationer. Denne blog ønsker jeg at have for ikke at skulle være afhænig af opslag på min Facebook side med samme navn
+  Vi lever gennem vores observationer i virkligheden. Jeg kan godt lidt at
+  observere og sætte ord på mine observationer. Denne blog ønsker jeg at have
+  for ikke at skulle være afhænig af opslag på min Facebook side med samme navn
 date: '2021-02-27'
 thumb_img_path: images/0AC4338E-597D-4401-BD29-BC4190098167.jpeg
 thumb_img_alt: Sten Hougaard
-content_img_path: images/1.jpg
+content_img_path: images/0AC4338E-597D-4401-BD29-BC4190098167.jpeg
 content_img_alt: Sten Hougaard
 seo:
   title: Sten Hougaard deler sine observationer fra virkligheden
-  description: >-
-    Her kan du læse Sten Hougaards observationer og perspektiver på virkligheden
+  description: Her kan du læse Sten Hougaards observationer og perspektiver på virkligheden
   extra:
     - name: 'og:type'
       value: article
@@ -20,7 +21,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Få inspiration og tanker til eftertanke så du kan se dit liv i perspektiv
+        Få inspiration og tanker til eftertanke så du kan se dit liv i
+        perspektiv
       keyName: property
     - name: 'og:image'
       value: images/1.jpg
