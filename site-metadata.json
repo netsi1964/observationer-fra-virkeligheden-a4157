@@ -45,7 +45,7 @@
                 "label": "DEV",
                 "url": "https://dev.to/",
                 "style": "icon",
-                "icon_class": "faceb",
+                "icon_class": "facebook",
                 "new_window": true
             }
         ],
