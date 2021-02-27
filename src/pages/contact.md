@@ -17,7 +17,7 @@ form_fields:
   - input_type: select
     name: subject
     label: Subject
-    default_value: 'Hvad '
+    default_value: Hvad handler dette om?
     options:
       - Error on the site
       - Sponsorship
