@@ -10,8 +10,7 @@ content_img_alt: Sten Hougaard
 seo:
   title: Sten Hougaard deler sine observationer fra virkligheden
   description: >-
-    Hiking refers to difficult walking through dense forest, undergrowth, or
-    bushes.
+    Her kan du læse 
   extra:
     - name: 'og:type'
       value: article
