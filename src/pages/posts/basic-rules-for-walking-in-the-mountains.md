@@ -16,7 +16,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Basic Rules For Walking In The Mountains
+      value: Sten Hougaards observationer fra virkligheden
       keyName: property
     - name: 'og:description'
       value: >-
