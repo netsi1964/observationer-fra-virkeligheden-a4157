@@ -31,7 +31,7 @@ form_fields:
     label: >-
       Jeg accepterer at informationen jeg sender ind gemmes så jeg kan blive
       kontaktet.
-submit_label: Send Message
+submit_label: Send besked
 seo:
   title: Get in Touch
   description: This is the contact page
