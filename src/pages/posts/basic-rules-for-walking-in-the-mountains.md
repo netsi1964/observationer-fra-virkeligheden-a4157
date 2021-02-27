@@ -42,4 +42,4 @@ template: post
 
 Vi har 5 sanser til at danne os en model af den virklighed vi bevæger os rundt. Det er vores fælles fundament, men hvordan bliver 5 input til så forskellige mennesker og forskellige holdninger?
 
-Denne blog omhandler 
+Denne blog omhandler det at leve, det at observere
