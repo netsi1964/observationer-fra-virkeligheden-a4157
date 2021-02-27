@@ -53,5 +53,4 @@ seo:
       value: This is the contact page
 template: contact
 ---
-
-Fill the form below to get in touch with me.
+Udfyld formularen for at kontakte Sten Hougaard.
