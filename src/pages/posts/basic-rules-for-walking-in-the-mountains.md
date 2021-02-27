@@ -4,7 +4,7 @@ excerpt: >-
   Vi lever gennem vores observationer i virkligheden. Jeg kan godt lidt at observere og sætte ord på mine observationer. Denne blog ønsker jeg at have for ikke at skulle være afhænig af opslag på min Facebook side med samme navn
 date: '2021-02-27'
 thumb_img_path: images/0AC4338E-597D-4401-BD29-BC4190098167.jpeg
-thumb_img_alt: A man standing on a rock cliff overlooking river
+thumb_img_alt: Sten Hougaard
 content_img_path: images/1.jpg
 content_img_alt: A man standing on a rock cliff overlooking river
 seo:
