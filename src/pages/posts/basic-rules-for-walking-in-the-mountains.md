@@ -20,7 +20,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Få inspiration og tanker til eftertanke så du 
+        Få inspiration og tanker til eftertanke så du kan se dit liv i perspektiv
       keyName: property
     - name: 'og:image'
       value: images/1.jpg
