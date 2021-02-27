@@ -28,9 +28,7 @@ form_fields:
     default_value: Skriv løs hvad du ønsker at kontakte mig om
   - input_type: checkbox
     name: consent
-    label: >-
-      I understand that this form is storing my submitted information so I can
-      be contacted.
+    label: 'Jeg accepterer at informationen jeg sender ind '
 submit_label: Send Message
 seo:
   title: Get in Touch
