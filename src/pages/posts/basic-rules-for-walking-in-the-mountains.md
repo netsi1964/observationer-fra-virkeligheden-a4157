@@ -8,7 +8,7 @@ thumb_img_alt: Sten Hougaard
 content_img_path: images/1.jpg
 content_img_alt: Sten Hougaard
 seo:
-  title: Basic Rules For Walking In The Mountains
+  title: Sten Hougaard deler sine observationer fra virkligheden
   description: >-
     Hiking refers to difficult walking through dense forest, undergrowth, or
     bushes.
