@@ -44,4 +44,4 @@ Vi har 5 sanser til at danne os en model af den virklighed vi bevæger os rundt.
 
 Denne blog omhandler det at leve, det at observere virkeligheden. Jeg har altid reflekteret over hvad livet er og elsker at stille spørgsmål, tage forskellige perspektiver og leve livet i en reflekterende og beringe måde.
 
-Denne side er 
+Denne side er en teknisk ny måde for mig at dele 
