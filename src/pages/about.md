@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: Om mig
 subtitle: This is a short page about me and my work
 img_path: images/0AC4338E-597D-4401-BD29-BC4190098167.jpeg
 img_alt: A man standing on a rock outside the cave
