@@ -40,3 +40,4 @@ seo:
 template: post
 ---
 
+Vi har 5 sanser
