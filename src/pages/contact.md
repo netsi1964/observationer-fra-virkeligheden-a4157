@@ -25,7 +25,7 @@ form_fields:
   - input_type: textarea
     name: message
     label: Besked
-    default_value: 'Skriv løs '
+    default_value: 'Skriv løs hvad du ønsker at '
   - input_type: checkbox
     name: consent
     label: >-
