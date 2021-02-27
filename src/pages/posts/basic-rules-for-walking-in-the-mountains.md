@@ -40,4 +40,4 @@ seo:
 template: post
 ---
 
-Vi har 5 sanser til at danne os en model af den virklighed vi bevæger os rundt
+Vi har 5 sanser til at danne os en model af den virklighed vi bevæger os rundt. 
