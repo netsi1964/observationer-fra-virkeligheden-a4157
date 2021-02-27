@@ -10,7 +10,7 @@ content_img_alt: Sten Hougaard
 seo:
   title: Sten Hougaard deler sine observationer fra virkligheden
   description: >-
-    Her kan du læse 
+    Her kan du læse Sten Hougaards observationer og perspektiver på virkligheden
   extra:
     - name: 'og:type'
       value: article
