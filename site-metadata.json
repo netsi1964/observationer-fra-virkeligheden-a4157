@@ -30,7 +30,7 @@
         ]
     },
     "footer": {
-        "content": "&copy;  Create yours <a href=\"https://app.stackbit.com/create?theme=ampersand&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>.",
+        "content": "&copy; ",
         "has_social": true,
         "social_links": [
             {
