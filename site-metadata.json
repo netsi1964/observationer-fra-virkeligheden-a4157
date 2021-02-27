@@ -45,7 +45,7 @@
                 "label": "DEV",
                 "url": "https://dev.to/",
                 "style": "icon",
-                "icon_class": "dev",
+                "icon_class": "fb",
                 "new_window": true
             }
         ],
