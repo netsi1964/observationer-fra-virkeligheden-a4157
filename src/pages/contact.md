@@ -16,7 +16,7 @@ form_fields:
     is_required: true
   - input_type: select
     name: subject
-    label: Subject
+    label: Emne
     default_value: Hvad handler dette om?
     options:
       - Error on the site
