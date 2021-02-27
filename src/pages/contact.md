@@ -1,6 +1,5 @@
 ---
 title: Her finder du mig
-img_path: images/contact.jpg
 img_alt: Post in the door mailbox
 form_id: contactForm
 form_action: /contact-success
