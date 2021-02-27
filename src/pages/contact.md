@@ -1,38 +1,37 @@
 ---
-title: Get in Touch
-img_path: images/contact.jpg
+title: Her finder du mig
 img_alt: Post in the door mailbox
 form_id: contactForm
 form_action: /contact-success
 form_fields:
   - input_type: text
     name: name
-    label: Name
-    default_value: Your name
+    label: Navn
+    default_value: Dit navn
     is_required: true
   - input_type: email
     name: email
-    label: Email
-    default_value: Your email address
+    label: E-mail
+    default_value: Din e-mail adresse
     is_required: true
   - input_type: select
     name: subject
-    label: Subject
-    default_value: Please select
+    label: Emne
+    default_value: Hvad handler dette om?
     options:
       - Error on the site
       - Sponsorship
       - Other
   - input_type: textarea
     name: message
-    label: Message
-    default_value: Your message
+    label: Besked
+    default_value: Skriv løs hvad du ønsker at kontakte mig om
   - input_type: checkbox
     name: consent
     label: >-
-      I understand that this form is storing my submitted information so I can
-      be contacted.
-submit_label: Send Message
+      Jeg accepterer at informationen jeg sender ind gemmes så jeg kan blive
+      kontaktet.
+submit_label: Send besked
 seo:
   title: Get in Touch
   description: This is the contact page
@@ -54,5 +53,4 @@ seo:
       value: This is the contact page
 template: contact
 ---
-
-Fill the form below to get in touch with me.
+Udfyld formularen for at kontakte Sten Hougaard.

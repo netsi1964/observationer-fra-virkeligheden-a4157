@@ -2,9 +2,9 @@
     "layout_style": "grid",
     "palette": "green",
     "header": {
-        "title": "Observationer fra virkligheden",
-        "logo_img": "images/logo.svg",
-        "logo_img_alt": "Ampersand Logo",
+        "title": "Observationer fra virkeligheden",
+        "logo_img": "images/9BB9F9B4-1FDB-4398-95CC-4C8A49EF4A85.jpeg",
+        "logo_img_alt": "Observationer fra virkeligheden",
         "has_nav": true,
         "nav_links": [
             {
@@ -40,7 +40,6 @@
                 "icon_class": "twitter",
                 "new_window": true
             },
-    
             {
                 "label": "Facebook",
                 "url": "https://www.facebook.com/observationerfravirkeligheden",
@@ -54,6 +53,6 @@
         "subscribe_content": "Subscribe to my email newsletter to receive useful articles and special offers. This monthly email is sent out on the first of every month.",
         "subscribe_action": "/subscribe-success"
     },
-    "title": "Stackbit Ampersand Theme",
+    "title": "Observationer fra virkeligheden",
     "domain": "https://observationer-fra-virkeligheden-a4157.netlify.app"
 }
