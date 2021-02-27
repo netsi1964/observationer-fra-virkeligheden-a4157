@@ -8,7 +8,7 @@ form_fields:
     name: name
     label: Navn
     default_value: Dit navn
-    is_required: true
+    is_required: false
   - input_type: email
     name: email
     label: Email
