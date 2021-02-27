@@ -40,4 +40,4 @@ seo:
 template: post
 ---
 
-Vi har 5 sanser til at danne os en model af den virklighed vi bevæger os rundt. D
+Vi har 5 sanser til at danne os en model af den virklighed vi bevæger os rundt. Det er vores fælles fundament, men 
