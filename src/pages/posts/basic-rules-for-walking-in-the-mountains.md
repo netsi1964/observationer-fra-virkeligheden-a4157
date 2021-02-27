@@ -20,7 +20,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Få inspiration 
+        Få inspiration og tanker til eftertanke så du 
       keyName: property
     - name: 'og:image'
       value: images/1.jpg
