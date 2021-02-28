@@ -4,8 +4,8 @@ has_intro: true
 intro_content: >-
   observe.dk er en blog hvor jeg deler mine observationer fra virkelighden.
 intro_actions:
-  - label: Om mig
-    url: /about
+  - label: Om Observe.dk
+    url: /om
     style: primary
   - label: Kontakt
     url: /contact
