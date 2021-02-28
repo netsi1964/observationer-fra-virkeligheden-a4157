@@ -11,7 +11,7 @@ intro_actions:
     url: /contact
     style: secondary
 has_more_link: true
-more_link_text: Om mig
+more_link_text: Læs
 seo:
   title: observe.dk
   description: The preview of the Ampersand theme
