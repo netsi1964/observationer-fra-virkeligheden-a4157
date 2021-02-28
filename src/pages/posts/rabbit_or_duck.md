@@ -1,5 +1,5 @@
 ---
-title: There is a crack in everything, that's how the light gets in
+title: Rabbit or duck?
 excerpt: >-
   Virkeligheden tillader flere samtidige observationer alle at være sande - det skal du også. Tillad andres synspunkt, vi behøver ikke alle at være enige - og forskellige observationer er helt okay.
 date: "2021-02-17"
