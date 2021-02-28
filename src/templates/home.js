@@ -124,7 +124,7 @@ export default class Home extends React.Component {
                       >
                         {moment(_.get(post, "frontmatter.date", null))
                           .locale("da")
-                          .strftime("%d. %B %Y %H:%M")}
+                          .strftime("%d. %B %Y")}
                       </time>
                     </div>
                     <h2 className="post-title">
