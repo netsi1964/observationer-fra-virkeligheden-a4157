@@ -1,8 +1,8 @@
 ---
-title: You’re in!
+title: Tilmelding lykkedes!
 template: page
 ---
 
-Your subscription to **Ampersand Newsletter** has been confirmed.
+Dit abonnement på **Observe.dk** er bekræftet.
 
-**Thank you for subscribing!**
+**Tak for din interesse**

@@ -1,46 +1,47 @@
 ---
 title: Velkommen til min blog
 excerpt: >-
-  Vi lever gennem vores observationer i virkligheden. Jeg kan godt lidt at
-  observere og sætte ord på mine observationer. Denne blog ønsker jeg at have
+  Vi lever gennem vores observationer i virkeligheden. Jeg kan godt lidt at
+  observere og sætte ord på mine observationer. Observe.dk ønsker jeg at have
   for ikke at skulle være afhænig af opslag på min Facebook side med samme navn
-date: '2021-02-27'
+date: "2021-02-27"
 thumb_img_path: images/0AC4338E-597D-4401-BD29-BC4190098167.jpeg
 thumb_img_alt: Sten Hougaard
 content_img_path: images/0AC4338E-597D-4401-BD29-BC4190098167.jpeg
 content_img_alt: Sten Hougaard
 seo:
-  title: Sten Hougaard deler sine observationer fra virkligheden
-  description: Her kan du læse Sten Hougaards observationer og perspektiver på virkligheden
+  title: Sten Hougaard deler sine observationer fra virkeligheden
+  description: Her kan du læse Sten Hougaards observationer og perspektiver på virkeligheden
   extra:
-    - name: 'og:type'
+    - name: "og:type"
       value: article
       keyName: property
-    - name: 'og:title'
-      value: Sten Hougaards observationer fra virkligheden
+    - name: "og:title"
+      value: Sten Hougaards observationer fra virkeligheden
       keyName: property
-    - name: 'og:description'
+    - name: "og:description"
       value: >-
         Få inspiration og tanker til eftertanke så du kan se dit liv i
         perspektiv
       keyName: property
-    - name: 'og:image'
+    - name: "og:image"
       value: images/1.jpg
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
+    - name: "twitter:card"
       value: summary_large_image
-    - name: 'twitter:title'
+    - name: "twitter:title"
       value: Basic Rules For Walking In The Mountains
-    - name: 'twitter:description'
+    - name: "twitter:description"
       value: >-
-        Hiking refers to difficult walking through dense forest, undergrowth, or
-        bushes.
-    - name: 'twitter:image'
+        Observationer fra virkeligheden
+    - name: "twitter:image"
       value: images/1.jpg
       relativeUrl: true
 template: post
 ---
+
+## Observe.dk - Observationer fra virkeligheden
 
 Vi har 5 sanser til at danne os en model af den virklighed vi bevæger os rundt. Det er vores fælles fundament, men hvordan bliver 5 input til så forskellige mennesker og forskellige holdninger?
 

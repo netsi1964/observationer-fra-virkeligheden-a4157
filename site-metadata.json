@@ -1,58 +1,58 @@
 {
-    "layout_style": "grid",
-    "palette": "green",
-    "header": {
-        "title": "Observationer fra virkeligheden",
-        "logo_img": "images/9BB9F9B4-1FDB-4398-95CC-4C8A49EF4A85.jpeg",
-        "logo_img_alt": "Observationer fra virkeligheden",
-        "has_nav": true,
-        "nav_links": [
-            {
-                "label": "Home",
-                "url": "/",
-                "style": "link"
-            },
-            {
-                "label": "About",
-                "url": "/about",
-                "style": "link"
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
-                "label": "Contact",
-                "url": "/contact",
-                "style": "link"
-            }
-        ]
-    },
-    "footer": {
-        "content": "&copy; 2021 Sten Hougaard",
-        "has_social": true,
-        "social_links": [
-            {
-                "label": "Twitter",
-                "url": "https://twitter.com/OVirkeligheden",
-                "style": "icon",
-                "icon_class": "twitter",
-                "new_window": true
-            },
-            {
-                "label": "Facebook",
-                "url": "https://www.facebook.com/observationerfravirkeligheden",
-                "style": "icon",
-                "icon_class": "facebook",
-                "new_window": true
-            }
-        ],
-        "has_subscribe": false,
-        "subscribe_title": "Subscribe for new updates",
-        "subscribe_content": "Subscribe to my email newsletter to receive useful articles and special offers. This monthly email is sent out on the first of every month.",
-        "subscribe_action": "/subscribe-success"
-    },
-    "title": "Observationer fra virkeligheden",
-    "domain": "https://observationer-fra-virkeligheden-a4157.netlify.app"
+  "layout_style": "grid",
+  "palette": "green",
+  "header": {
+    "title": "observe.dk",
+    "logo_img": "images/9BB9F9B4-1FDB-4398-95CC-4C8A49EF4A85.jpeg",
+    "logo_img_alt": "observe.dk",
+    "has_nav": true,
+    "nav_links": [
+      {
+        "label": "Home",
+        "url": "/",
+        "style": "link"
+      },
+      {
+        "label": "About",
+        "url": "/about",
+        "style": "link"
+      },
+      {
+        "label": "Style Guide",
+        "url": "/style-guide",
+        "style": "link"
+      },
+      {
+        "label": "Contact",
+        "url": "/contact",
+        "style": "link"
+      }
+    ]
+  },
+  "footer": {
+    "content": "&copy; 2021 Sten Hougaard",
+    "has_social": true,
+    "social_links": [
+      {
+        "label": "Twitter",
+        "url": "https://twitter.com/OVirkeligheden",
+        "style": "icon",
+        "icon_class": "twitter",
+        "new_window": true
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/observationerfravirkeligheden",
+        "style": "icon",
+        "icon_class": "facebook",
+        "new_window": true
+      }
+    ],
+    "has_subscribe": false,
+    "subscribe_title": "Subscribe for new updates",
+    "subscribe_content": "Subscribe to my email newsletter to receive useful articles and special offers. This monthly email is sent out on the first of every month.",
+    "subscribe_action": "/subscribe-success"
+  },
+  "title": "observe.dk",
+  "domain": "https://observationer-fra-virkeligheden-a4157.netlify.app"
 }

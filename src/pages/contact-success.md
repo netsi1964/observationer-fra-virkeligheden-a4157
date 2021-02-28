@@ -1,8 +1,8 @@
 ---
-title: Thank You!
+title: Tak for din besked!
 template: page
 ---
 
-Thank you for contacting me! I will get back in touch with you soon.
+Din besked er sendt.
 
-**Have a great day!**
+**Tak for din interesse**

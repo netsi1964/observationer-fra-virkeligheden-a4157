@@ -33,24 +33,25 @@ form_fields:
       kontaktet.
 submit_label: Send besked
 seo:
-  title: Get in Touch
-  description: This is the contact page
+  title: Kontakt mig
+  description: Her kan du kontakte Sten Hougaard
   extra:
-    - name: 'og:type'
+    - name: "og:type"
       value: website
       keyName: property
-    - name: 'og:title'
+    - name: "og:title"
       value: Get in Touch
       keyName: property
-    - name: 'og:description'
+    - name: "og:description"
       value: This is the contact page
       keyName: property
-    - name: 'twitter:card'
+    - name: "twitter:card"
       value: summary
-    - name: 'twitter:title'
+    - name: "twitter:title"
       value: Get in Touch
-    - name: 'twitter:description'
+    - name: "twitter:description"
       value: This is the contact page
 template: contact
 ---
+
 Udfyld formularen for at kontakte Sten Hougaard.
